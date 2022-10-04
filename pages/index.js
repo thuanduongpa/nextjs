@@ -18,6 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '}
+          TESTING NEXTJS DONE
           <code className={styles.code}>pages/index.js</code>
         </p>
 
